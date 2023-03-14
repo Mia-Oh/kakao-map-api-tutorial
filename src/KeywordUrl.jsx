@@ -1,4 +1,4 @@
-const HospitalLink = () => {
+const KeywordUrl = () => {
 
   const placeName = '한양여자대학교';
 
@@ -9,4 +9,4 @@ const HospitalLink = () => {
   );
 }
 
-export default HospitalLink;
+export default KeywordUrl;

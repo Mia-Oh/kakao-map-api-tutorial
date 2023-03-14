@@ -3,6 +3,7 @@ import SearchMap from './SearchMap';
 import CategoryMap from './CategoryMap';
 import KeywordMap from './KeywordMap';
 import KeywordUrl from './KeywordUrl';
+import KeywordMarkMap from './KeywordMarkMap';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <CategoryMap />
       <KeywordMap />
       <KeywordUrl />
+      <KeywordMarkMap />
     </div>
   );
 }
